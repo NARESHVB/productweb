@@ -23,7 +23,7 @@ Validate the layout in various browsers.
 Validate the HTML code.
 
 ### Step 7:
-Publish the website in the given URL.
+Publish the website in the given URL.s
 
 ## Code:
 ```
