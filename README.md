@@ -570,7 +570,7 @@ products.html
 
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Balamurugan</footer></div>
+                Copyright &copy;2023 Developed by NARESHVB</footer></div>
             </div>
         </div>
     </body>
