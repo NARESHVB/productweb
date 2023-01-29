@@ -88,7 +88,7 @@ home.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Bala murugan</footer></div>
+                Copyright &copy;2023 Developed by NARESHVB</footer></div>
             </div>
         </div>
     </body>
@@ -157,7 +157,7 @@ contact.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Bala murugan</footer></div>
+                Copyright &copy;2023 Developed by NARESHVB</footer></div>
             </div>
         </div>
     </body>
@@ -364,7 +364,7 @@ people.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Bala murugan</footer></div>
+                Copyright &copy;2023 Developed by NARESHVB</footer></div>
             </div>
         </div>
     </body>
